@@ -132,3 +132,4 @@ C:\Users\autologon\Desktop\Prova 2\EnzoSottomaior\EduMachado\obj\Debug\net8.0\re
 C:\Users\autologon\Desktop\Prova 2\EnzoSottomaior\EduMachado\obj\Debug\net8.0\EduMachado.pdb
 C:\Users\autologon\Desktop\Prova 2\EnzoSottomaior\EduMachado\obj\Debug\net8.0\EduMachado.genruntimeconfig.cache
 C:\Users\autologon\Desktop\Prova 2\EnzoSottomaior\EduMachado\obj\Debug\net8.0\ref\EduMachado.dll
+C:\Users\autologon\Desktop\Prova 2\EnzoSottomaior\EduMachado\obj\Debug\net8.0\EduMachado.sourcelink.json
